@@ -1,6 +1,6 @@
 # Implementations of Algorithms and Data Structures in C++
 
-Author: [Abdul Alim](https://www.youtube.com/@LearnWithAbdulAlim)
+Author: [CodeJogot](https://www.youtube.com/@CodeJogot)
 
 ### 01. Number Theory
 
