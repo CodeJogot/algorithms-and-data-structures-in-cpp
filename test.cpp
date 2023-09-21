@@ -1,12 +1,4 @@
 
-/************************************************************************
- *                 Solved By : Abdul Alim                               *
- *                 GitHub    : github.com/FarmerAbdulAlim               *
- *                 Email     : farmerabdulalim@gmail.com                *
- *                 YouTube   : youtube.com/@TravelerAbdulAlim           *
- *                 YouTube   : youtube.com/@AbdulAlim-Bangladesh        *
- ************************************************************************/
-
 /*
     Algorithm Used: Binary Search
     Complexity: O(log(N))
